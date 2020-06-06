@@ -1,0 +1,34 @@
+{
+	"1234": {
+	"name" : "Pink flowers",
+	"cost" : 990,
+	"price" : "990 ₽",	
+	"description" : "Beautyfull",
+	"order" : 3,
+	"img" : "images/pink.jpg"
+	},
+	"1235": {
+	"name" : "Red flowers",
+	"cost" : 1500,	
+	"price" : "1500 ₽",
+	"description" : "Amazing",
+	"order" : 5,
+	"img" : "images/red.jpg"
+	},
+	"1236": {
+	"name" : "In blue flowers",
+	"cost" : 800,
+	"price" : "800 ₽",
+	"description" : "Pretty",
+	"order" : 1,
+	"img" : "images/in_blue.jpg"
+	},
+	"1237": {
+	"name" : "Fiolet flowers",
+	"cost" : 750, 
+	"price" : "750 ₽",
+	"description" : "Nice",
+	"order" : 8,
+	"img" : "images/fiolet.jpg"
+	}
+}
